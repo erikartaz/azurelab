@@ -60,7 +60,7 @@
 },
 "OSVersion": {
 "type": "string",
-"defaultValue": "2022-datacenter-azure-edition-core",
+"defaultValue": "2016-Datacenter",
 "allowedValues": [
 "2008-R2-SP1",
 "2008-R2-SP1-smalldisk",
@@ -143,7 +143,7 @@
 },
 "vmName": {
 "type": "string",
-"defaultValue": "simple-vm",
+"defaultValue": "eafs01",
 "metadata": {
 "description": "Name of the virtual machine."
 }
